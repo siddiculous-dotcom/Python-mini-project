@@ -6,3 +6,4 @@ if __name__ == "__main__":
     print(greet(user))
     print("good bye")
     print("see you again")
+    print("have a good one")
